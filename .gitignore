@@ -1,0 +1,9 @@
+# files 
+.env
+
+# folder
+logs
+articles_to_publish
+articles_to_review
+articles_already_published
+images
